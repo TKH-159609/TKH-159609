@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @TKH-159609
+- 👀 I’m interested in learning to code, and seeing which aspects of coding may appeal to me most.
+- 🌱 I’m currently learning CS50x
+- 📫 How to reach me: email brronlestat@hotmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Just began learning coding a few days ago, and very excited to begin my newest journey in life.
